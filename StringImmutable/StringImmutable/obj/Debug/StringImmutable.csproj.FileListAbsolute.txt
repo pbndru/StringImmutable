@@ -1,0 +1,6 @@
+C:\Practice\StringImmutable\StringImmutable\bin\Debug\StringImmutable.exe.config
+C:\Practice\StringImmutable\StringImmutable\bin\Debug\StringImmutable.exe
+C:\Practice\StringImmutable\StringImmutable\bin\Debug\StringImmutable.pdb
+C:\Practice\StringImmutable\StringImmutable\obj\Debug\StringImmutable.csprojResolveAssemblyReference.cache
+C:\Practice\StringImmutable\StringImmutable\obj\Debug\StringImmutable.exe
+C:\Practice\StringImmutable\StringImmutable\obj\Debug\StringImmutable.pdb
